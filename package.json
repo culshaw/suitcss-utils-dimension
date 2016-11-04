@@ -1,4 +1,5 @@
 {
   "name": "suitcss-utils-dimension",
-  "version": "0.3.1"
+  "version": "0.3.1",
+  "description": "Suit dimension utils"
 }
